@@ -1,5 +1,7 @@
 Auto Free Account SSH UDP
+
 STEP-1
+
 $ pkg update && pkg upgrade
 $ pkg install python
 $ pkg install git
